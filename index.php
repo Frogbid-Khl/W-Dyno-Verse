@@ -68,7 +68,8 @@
                     <div class="avatar-info">
                         <div class="row">
                             <div class="col-md-6">
-                                <h2 class="section-title" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">DinoVerse</h2>
+                                <h2 class="section-title" data-aos="fade-up" data-aos-duration="1000"
+                                    data-aos-once="true">DinoVerse</h2>
                                 <p class="sub-text" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
                                     您的元宇宙侏羅紀通行證！</br>
                                     只會創造 5,000 個！
@@ -92,7 +93,8 @@
 
         <section class="avatar-section">
             <div class="container">
-                <h2 class="section-title text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">團隊成員</h2>
+                <h2 class="section-title text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+                    團隊成員</h2>
                 <div class="avatar-img">
                     <div class="card-wrap">
                         <div class="row">
@@ -102,7 +104,9 @@
                                         <div class="card__img-wrap">
                                             <div class="card__img"><img src="images/o01.png" alt=""></div>
                                         </div>
-                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Charles - Mastermind</button>
+                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">
+                                            Charles - Mastermind
+                                        </button>
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +116,9 @@
                                         <div class="card__img-wrap">
                                             <div class="card__img"><img src="images/o11.png" alt=""></div>
                                         </div>
-                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Anna - Marketing &nbsp Head</button>
+                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">
+                                            Anna - Marketing &nbsp Head
+                                        </button>
                                     </div>
                                 </div>
                             </div>
@@ -122,7 +128,9 @@
                                         <div class="card__img-wrap">
                                             <div class="card__img"><img src="images/o31.png" alt=""></div>
                                         </div>
-                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Jessica - Art Director</button>
+                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">
+                                            Jessica - Art Director
+                                        </button>
                                     </div>
                                 </div>
                             </div>
@@ -132,7 +140,9 @@
                                         <div class="card__img-wrap">
                                             <div class="card__img"><img src="images/o21.png" alt=""></div>
                                         </div>
-                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Franky - CTO</button>
+                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">
+                                            Franky - CTO
+                                        </button>
                                     </div>
                                 </div>
                             </div>
@@ -146,16 +156,19 @@
                 <div class="map-wrap">
                     <div class="item">
                         <div class="item__wrap">
-                        <div class="item__descr">
-                            <h2 class="section-title" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">//
-                                故事</h2>
-                            <p class="map-desc scroll scroll-wrap" data-aos="fade-up" data-aos-duration="1200"
-                               data-aos-once="true">我們是幾十年來一直在研究恐龍和侏羅紀時代的科學家。 我們很自豪地宣布，我們已成功將它們轉移到 Web 3 和元宇宙！ 準備好得到你的恐龍蛋並孵化它！ 更多細節和信息將稍後發布。
-                            </p>
-                        </div>
-                        <div class="item__img">
-                            <img src="images/story-bg.jpg" width="600px">
-                        </div>
+                            <div class="item__descr">
+                                <h2 class="section-title" data-aos="fade-up" data-aos-duration="1100"
+                                    data-aos-once="true">
+                                    故事</h2>
+                                <p class="map-desc scroll scroll-wrap" data-aos="fade-up" data-aos-duration="1200"
+                                   data-aos-once="true">
+                                    6500萬年前，一顆直徑15公里重2兆噸小行星，以5秒鐘的時間穿越大氣層並撞向地球，這就是普遍大多數人認為恐龍滅絕的原因，然而真的是這樣嗎？恐龍真的是大家認知的樣子嗎？近年來愈來愈多科學家表示對此質疑，並提出恐龍早在行星撞落地球的一百年萬年前早已全部滅絕，並指出恐龍的骨格比例根本不太可能承載這樣重的身體。我們的故事便是由這裡開始-
+                                    恐龍的瀕臨滅絕時間，它們自知大限將至，此時地球上只剩下四種恐龍，分別是霸王龍，翼龍，三角龍及劍龍。它們雄霸地球的四方，這裡有你想像不到的變種恐龍，各式各樣的地形及環境，憑著各自的特點及優勢爭奪進入人間淨士
+                                    - 恐龍元宇宙。它們深知只有這樣才能躲過地球的浩劫，逃離滅絕的厄運!</p>
+                            </div>
+                            <div class="item__img">
+                                <img src="images/story-bg.jpg" width="600px">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -271,7 +284,8 @@
                             <div class="accordion__icon"></div>
                         </div>
                         <div class="accordion__content">
-                            <p class="accordion__desc">Non-Fungible Token (NFT) 是存儲在數字分類賬上的區塊鏈上唯一且不可互換的數據單元。其目的是建立 jpg、視頻、GIF 等數字資產的所有權證明。</p>
+                            <p class="accordion__desc">Non-Fungible Token (NFT) 是存儲在數字分類賬上的區塊鏈上唯一且不可互換的數據單元。其目的是建立
+                                jpg、視頻、GIF 等數字資產的所有權證明。</p>
                         </div>
                     </div>
                     <div class="accordion__item">
@@ -290,7 +304,8 @@
                             <div class="accordion__icon"></div>
                         </div>
                         <div class="accordion__content">
-                            <p class="accordion__desc">每隻 Dinos 作為您的寵物，也可作為會員卡享受會員專屬福利和活動，並訪問我們的 DinoVerse 遊戲。請務必更改您社交媒體的頭像並告訴您的朋友和家人！
+                            <p class="accordion__desc">每隻 Dinos 作為您的寵物，也可作為會員卡享受會員專屬福利和活動，並訪問我們的 DinoVerse
+                                遊戲。請務必更改您社交媒體的頭像並告訴您的朋友和家人！
                             </p>
                         </div>
                     </div>

@@ -1443,7 +1443,7 @@ body.overflow {
 
 @media (min-width: 1024px) {
     .avatar-section {
-        padding: 11rem 0;
+        padding: 5rem 0;
     }
 }
 
@@ -1964,7 +1964,7 @@ body.overflow {
 .link {
     font-weight: 700;
     font-family: chubb;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     line-height: 1;
     text-transform: uppercase;
     color: #eed91c;
@@ -2080,7 +2080,7 @@ body.overflow {
 
 @media (min-width: 1024px) {
     .item {
-        margin-bottom: 10rem;
+        margin-bottom: 5rem;
     }
 }
 
@@ -2658,7 +2658,7 @@ body.overflow {
 
 @media (min-width: 1024px) {
     .story-section {
-        padding: 20rem 0 19rem 0;
+        padding: 10rem 0 0 0;
     }
 }
 

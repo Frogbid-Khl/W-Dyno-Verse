@@ -546,7 +546,7 @@ body.overflow {
 .main-title {
     font-weight: 700;
     text-align: center;
-    font-size: 6rem;
+    font-size: 5.5rem;
     line-height: 1.5;
     text-transform: uppercase;
     color: #eed91c;
@@ -1496,7 +1496,7 @@ body.overflow {
     content: "";
     width: 100%;
     height: 70%;
-    bottom: 2rem;
+    bottom: 0;
     left: 0;
     z-index: 0;
     background: radial-gradient(136.32% 136.32% at 49.97% -28.47%, rgba(12, 13, 8, 0) 44.41%, rgba(12, 13, 8, 0.46) 63.3%, #0c0d08 85.57%);
@@ -1676,7 +1676,7 @@ body.overflow {
     justify-content: space-between;
     -webkit-box-align: center;
     align-items: center;
-    background-color: #000000;
+    background-color: #040420;
 }
 
 .accordion__icon {
@@ -1759,7 +1759,7 @@ body.overflow {
 .accordion__content {
     padding-bottom: 2.5rem;
     display: none;
-    background-color: #000000;
+    background-color: #040420;
 }
 
 .immerse-section {
@@ -1924,16 +1924,46 @@ body.overflow {
 }
 
 .intro-section {
-    padding: 5rem 0 40vw;
-    background-image: url("../images/m-bg.png");
+    padding: 5rem 0 40vw;/*
+    background-image: url("../images/m-bg.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center bottom;
+    background-position: center bottom;*/
+    max-height: 1000px;
 }
-
+#land{
+    height: 600px;
+    width: 600px;
+}
 @media (min-width: 1024px) {
     .intro-section {
-        padding: 10rem 0 30vw;
+        padding: 10rem 0 40vw;
+    }
+}
+
+@media (max-width: 930px) {
+    .intro-section {
+        max-height: 875px;
+    }
+}
+
+@media (max-width: 560px) {
+    .intro-section {
+        max-height: 695px;
+    }
+    #land{
+        height: 400px;
+        width: 400px;
+    }
+}
+
+@media (max-width: 390px) {
+    .intro-section {
+        max-height: 593px;
+    }
+    #land{
+        height: 300px;
+        width: 300px;
     }
 }
 
@@ -2086,7 +2116,7 @@ body.overflow {
 
 @media (min-width: 1360px) {
     .item {
-        margin-bottom: 20rem;
+        margin-bottom: 5rem;
     }
 }
 
@@ -2126,7 +2156,8 @@ body.overflow {
 }
 
 .item__img {
-    margin-bottom: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 0rem;
 }
 
 @media (min-width: 768px) {
@@ -2143,6 +2174,7 @@ body.overflow {
 @media (min-width: 1024px) {
     .item__img {
         margin: 0 10rem 0 0;
+        padding-left: 25px;
     }
 }
 
@@ -2496,11 +2528,11 @@ body.overflow {
         content: '';
         width: 70px;
         height: 70px;
-        border-top: 1px solid #000000;
+        border-top: 1px solid #0b0b45;
         -webkit-transform: rotate(45deg);
         -ms-transform: rotate(45deg);
         transform: rotate(45deg);
-        background-color: #0C0D08;
+        background-color: #0b0b45;
         bottom: -35px;
         z-index: 1;
         left: -35px;
@@ -2554,7 +2586,7 @@ body.overflow {
     background-repeat: no-repeat;
     background-position: 50% -60%;
     background-size: cover;
-    background-color: rgb(29 29 34);
+    background-color: rgb(6 6 46);
 }
 
 .map-block_fits {
@@ -2568,7 +2600,7 @@ body.overflow {
     height: 100%;
     top: 0;
     left: 0;
-    background: rgb(29 29 34);
+    background: rgb(6 6 46);
 }
 
 .map-block > * {
@@ -2653,7 +2685,7 @@ body.overflow {
 }
 
 .story-section {
-    padding: 5rem 0 10vw 0;
+    padding: 5rem 0 2vw 0;
 }
 
 @media (min-width: 1024px) {

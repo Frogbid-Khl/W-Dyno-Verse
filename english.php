@@ -11,7 +11,7 @@
     <style>
         body {
             margin: 0;
-            background-color: #000000;
+            background-color: #0b0b45;
             font-family: chubb;
         }
 
@@ -58,6 +58,9 @@
                     <div class="info__wrap">
                         <p class="info__text">Minting Date TBC</p>
                     </div>
+                </div>
+                <div class="row">
+                    <img src="images/land.png" id="land">
                 </div>
             </div>
         </section>

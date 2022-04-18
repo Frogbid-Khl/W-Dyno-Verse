@@ -11,7 +11,7 @@
     <style>
         body {
             margin: 0;
-            background-color: #0b0b45;
+            background-color: #25abde;
             font-family: chubb;
         }
 

@@ -11,7 +11,7 @@
     <style>
         body {
             margin: 0;
-            background-color: #0b0b45;
+            background-color: #25abde;
             font-family: chubb;
         }
 
@@ -165,10 +165,9 @@
                                     故事</h2>
                                 <p class="map-desc scroll scroll-wrap" data-aos="fade-up" data-aos-duration="1200"
                                    data-aos-once="true">
-                                    6500萬年前，一顆直徑15公里重2兆噸小行星，以5秒鐘的時間穿越大氣層並撞向地球，這就是普遍人認為恐龍滅絕的原因，然而真的是這樣嗎？
-                                    我們的故事便是由這裡開始 - 恐龍的瀕臨滅絕時間，它們自知大限將至，此時地球上只剩下四種恐龍，分別是霸王龍，翼龍，三角龍及劍龍。
-                                    它們雄霸地球的四方，這裡有你想像不到的變種恐龍，各式各樣的地形及環境，憑著各自的特點及優勢爭奪進入人間淨士 - 恐龍元宇宙。
-                                    它們深知只有這樣才能躲過地球的浩劫，逃離滅絕的厄運!</p>
+                                    我們是幾十年來一直在研究恐龍和侏羅紀時代的科學家。 我們很自豪地宣布，
+                                    我們已成功將它們轉移到 Web 3 和元宇宙！ 準備好得到你的恐龍蛋並孵化它！
+                                    更多細節和信息將稍後發布。</p>
                             </div>
                             <div class="item__img">
                                 <img src="images/story-bg.jpg" width="600px">

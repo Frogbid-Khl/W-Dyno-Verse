@@ -538,10 +538,13 @@ body.overflow {
 }
 
 @media (min-width: 1024px) {
+
     .subtitle {
         margin-bottom: 4rem;
     }
+
 }
+
 
 .main-title {
     font-weight: 700;
@@ -553,6 +556,8 @@ body.overflow {
     position: relative;
     font-family: 'chubb';
 }
+
+
 
 /*@media (min-width: 768px){
     .main-title{
@@ -2528,11 +2533,11 @@ body.overflow {
         content: '';
         width: 70px;
         height: 70px;
-        border-top: 1px solid #0b0b45;
+        border-top: 1px solid #0b0b4500;
         -webkit-transform: rotate(45deg);
         -ms-transform: rotate(45deg);
         transform: rotate(45deg);
-        background-color: #0b0b45;
+        background-color: #0b0b4500;
         bottom: -35px;
         z-index: 1;
         left: -35px;
@@ -2721,4 +2726,14 @@ body.overflow {
 
 .white{
     color: #FFFFFF;
+}
+
+
+@media only screen and (max-width: 992px) {
+    .main-title{
+        font-size:4rem;
+    }
+    .link {
+        font-size:1rem;
+    }
 }

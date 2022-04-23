@@ -251,7 +251,7 @@
                            data-aos-once="true"></p>
                         <div class="map__item" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
                             <span class="map__percent">第一階段 - 鑄造發生</span>
-                            <p class="map-desc">元宇宙恐龍時代共有 5,000 只恐龍可用。您將從一個雞蛋開始，在揭示後它將變成您獨特的 BB 恐龍。
+                            <p class="map-desc">元宇宙恐龍時代共有 5,000 只恐龍可用。您將從一恐龍蛋，在揭示後它將變成您獨特的 BB 恐龍。
                             </p>
                         </div>
                         <div class="map__item" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true">
@@ -314,7 +314,7 @@
                     </div>
                     <div class="accordion__item">
                         <div class="accordion__title-wrap">
-                            <h3 class="accordion__title">我怎樣才能得到一隻恐龍？</h3>
+                            <h3 class="accordion__title">我怎樣才能得到一恐龍蛋？</h3>
                             <div class="accordion__icon"></div>
                         </div>
                         <div class="accordion__content">

@@ -193,9 +193,6 @@
                                                 <div class="item-img"><img src="images/2.png" alt=""></div>
                                             </div>
                                             <div class="swiper-slide">
-                                                <div class="item-img"><img src="images/3.png" alt=""></div>
-                                            </div>
-                                            <div class="swiper-slide">
                                                 <div class="item-img"><img src="images/5.png" alt=""></div>
                                             </div>
                                             <div class="swiper-slide">
@@ -256,9 +253,9 @@
                         </div>
                         <div class="map__item" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true">
                             <span class="map__percent">第二階段 - 遊戲</span>
-                            <p class="map-desc">我們不會停留在BB恐龍階段，孵化後你會餵牠們食物和零食來賺取經驗，你還需要照顧環境，比如清理便便，否則你的BB恐龍會生病.<br>
+                            <p class="map-desc">5,000 隻BB恐龍完售後啟動。我們不會停留在BB恐龍階段，孵化後你會餵牠們食物和零食來賺取經驗，你還需要照顧環境，比如清理便便，否則你的BB恐龍會生病.<br>
                                 我們還有一些迷你游戲（移動兼容），您可以與您的 BB 恐龍一起玩以獲得經驗。<br>
-                                一旦你的 bb 恐龍獲得足夠的經驗，你就可以讓他進化成 Juvie 恐龍和成年恐龍。</p>
+                                一旦你的 BB恐龍獲得足夠的經驗，你就可以讓他進化成 Juvie 恐龍和成年恐龍。</p>
                         </div>
                     </div>
                     <div class="map-block map-block_fits">

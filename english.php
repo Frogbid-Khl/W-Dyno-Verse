@@ -243,9 +243,11 @@
                         </div>
                         <div class="map__item" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true">
                             <span class="map__percent">Phase Two - Game</span>
-                            <p class="map-desc">We don’t stop at the bb dinosaur stage, after you hatch you will then feed them with food and snacks to earn exp, you will also need to take care of the environment such as cleaning up the poo or your bb dinosaur will get sick.
-                                We also have some mini-games(mobile compatible) that you could play with your bb dinosaur to earn exp.
-                                <br>Once your bb dinosaur earns enough exp you can have him evolve into a Juvie dinosaur and adult dinosaur.</p>
+                            <p class="map-desc">Activated after 5,000 DINO are minted. We don’t stop at the bb dinosaur stage, after you hatch you will then feed them will food and snacks to earn exp, you will also need to take care of the environment such as cleaning up the poo or your bb dinosaur will get sick.
+                                <br>We also have some mini-games(mobile compatible)  that you could play with your bb dinosaur to earn exp.
+                            <br>
+                                Once your bb dinosaur earns enough exp you can have him evolve into a Juvie dinosaur and adult dinosaur.
+                            </p>
                         </div>
                     </div>
                     <div class="map-block map-block_fits">

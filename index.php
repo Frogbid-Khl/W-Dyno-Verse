@@ -28,13 +28,13 @@
         <div class="container"><a class="logo" href="index-2.html"><img src="images/logo.png" alt=""></a>
             <nav class="nav js-nav">
                 <ul class="header-btn">
-                    <li><a href="#about" style="color: #FFFFFF;">ABOUT</a></li>
-                    <li><a href="#game" style="color: #FFFFFF;">Game</a></li>
-                    <li><a href="#instructions" style="color: #FFFFFF;">Collection </a></li>
-                    <li><a href="#roadmap" style="color: #FFFFFF;">ROADMAP</a></li>
+                    <li><a href="#about" style="color: #FFFFFF;">介紹</a></li>
+                    <li><a href="#game" style="color: #FFFFFF;">遊戲</a></li>
+                    <li><a href="#instructions" style="color: #FFFFFF;">系列</a></li>
+                    <li><a href="#roadmap" style="color: #FFFFFF;">路程</a></li>
                     <li><a href="english.php" style="color: #eed91c;">ENG</a></li>
                 </ul>
-                <a class="btn" href="#minting" type="button">MINT</a>
+                <a class="btn" href="#minting" type="button">鑄造</a>
                 <a class="btn pl-4 ml-3" href="#minting" type="button">Opensea</a>
             </nav>
             <div class="burger js-burger"><span></span><span></span><span></span></div>

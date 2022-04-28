@@ -182,9 +182,6 @@
                                                 <div class="item-img"><img src="images/2.png" alt=""></div>
                                             </div>
                                             <div class="swiper-slide">
-                                                <div class="item-img"><img src="images/3.png" alt=""></div>
-                                            </div>
-                                            <div class="swiper-slide">
                                                 <div class="item-img"><img src="images/5.png" alt=""></div>
                                             </div>
                                             <div class="swiper-slide">

@@ -177,7 +177,7 @@
                 </div>
             </div>
         </section>
-        <section class="item-section" id="equipment">
+        <!--<section class="item-section" id="equipment">
             <div class="container">
                 <div class="item-wrap">
                     <div class="item">
@@ -225,7 +225,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
         <section class="instruction-section" id="instructions">
             <h2 class="section-title">收藏</h2>
             <p class="instruction-text base-text"> 更多信息將很快發布🍭！！</p>

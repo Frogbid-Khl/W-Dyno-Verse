@@ -166,7 +166,7 @@
                 </div>
             </div>
         </section>
-        <section class="item-section" id="equipment">
+        <!--<section class="item-section" id="equipment">
             <div class="container">
                 <div class="item-wrap">
                     <div class="item">
@@ -213,7 +213,8 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
+
         <section class="instruction-section" id="instructions">
             <h2 class="section-title">Collection</h2>
             <p class="instruction-text base-text"> More info will be released shortly along with more sneak peek🍭!!</p>
